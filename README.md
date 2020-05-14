@@ -2,7 +2,7 @@
 This tool is used to secure your termux app with voice lock are password lock
 
 #usage
-git clone https://github.com/Karthick01234/secure-termux &&
+git clone https://github.com/Karthick01234/secure-termux && cd secure-termux &&
 chmod +x login.sh &&
 ./login.sh
 
